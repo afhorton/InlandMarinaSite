@@ -1,0 +1,70 @@
+C:\Users\922747\source\repos\IMarinaMVCWebApp\IMarinaData\bin\Debug\net7.0\IMarinaData.deps.json
+C:\Users\922747\source\repos\IMarinaMVCWebApp\IMarinaData\bin\Debug\net7.0\IMarinaData.runtimeconfig.json
+C:\Users\922747\source\repos\IMarinaMVCWebApp\IMarinaData\bin\Debug\net7.0\IMarinaData.dll
+C:\Users\922747\source\repos\IMarinaMVCWebApp\IMarinaData\bin\Debug\net7.0\IMarinaData.pdb
+C:\Users\922747\source\repos\IMarinaMVCWebApp\IMarinaData\obj\Debug\net7.0\IMarinaData.csproj.AssemblyReference.cache
+C:\Users\922747\source\repos\IMarinaMVCWebApp\IMarinaData\obj\Debug\net7.0\IMarinaData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\922747\source\repos\IMarinaMVCWebApp\IMarinaData\obj\Debug\net7.0\IMarinaData.AssemblyInfoInputs.cache
+C:\Users\922747\source\repos\IMarinaMVCWebApp\IMarinaData\obj\Debug\net7.0\IMarinaData.AssemblyInfo.cs
+C:\Users\922747\source\repos\IMarinaMVCWebApp\IMarinaData\obj\Debug\net7.0\IMarinaData.csproj.CoreCompileInputs.cache
+C:\Users\922747\source\repos\IMarinaMVCWebApp\IMarinaData\obj\Debug\net7.0\IMarinaData.dll
+C:\Users\922747\source\repos\IMarinaMVCWebApp\IMarinaData\obj\Debug\net7.0\refint\IMarinaData.dll
+C:\Users\922747\source\repos\IMarinaMVCWebApp\IMarinaData\obj\Debug\net7.0\IMarinaData.pdb
+C:\Users\922747\source\repos\IMarinaMVCWebApp\IMarinaData\obj\Debug\net7.0\IMarinaData.genruntimeconfig.cache
+C:\Users\922747\source\repos\IMarinaMVCWebApp\IMarinaData\obj\Debug\net7.0\ref\IMarinaData.dll
+C:\Users\922747\Desktop\IMarinaMVCWebApp\IMarinaData\bin\Debug\net7.0\IMarinaData.deps.json
+C:\Users\922747\Desktop\IMarinaMVCWebApp\IMarinaData\bin\Debug\net7.0\IMarinaData.runtimeconfig.json
+C:\Users\922747\Desktop\IMarinaMVCWebApp\IMarinaData\bin\Debug\net7.0\IMarinaData.dll
+C:\Users\922747\Desktop\IMarinaMVCWebApp\IMarinaData\bin\Debug\net7.0\IMarinaData.pdb
+C:\Users\922747\Desktop\IMarinaMVCWebApp\IMarinaData\obj\Debug\net7.0\IMarinaData.csproj.AssemblyReference.cache
+C:\Users\922747\Desktop\IMarinaMVCWebApp\IMarinaData\obj\Debug\net7.0\IMarinaData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\922747\Desktop\IMarinaMVCWebApp\IMarinaData\obj\Debug\net7.0\IMarinaData.AssemblyInfoInputs.cache
+C:\Users\922747\Desktop\IMarinaMVCWebApp\IMarinaData\obj\Debug\net7.0\IMarinaData.AssemblyInfo.cs
+C:\Users\922747\Desktop\IMarinaMVCWebApp\IMarinaData\obj\Debug\net7.0\IMarinaData.csproj.CoreCompileInputs.cache
+C:\Users\922747\Desktop\IMarinaMVCWebApp\IMarinaData\obj\Debug\net7.0\IMarinaData.dll
+C:\Users\922747\Desktop\IMarinaMVCWebApp\IMarinaData\obj\Debug\net7.0\refint\IMarinaData.dll
+C:\Users\922747\Desktop\IMarinaMVCWebApp\IMarinaData\obj\Debug\net7.0\IMarinaData.pdb
+C:\Users\922747\Desktop\IMarinaMVCWebApp\IMarinaData\obj\Debug\net7.0\IMarinaData.genruntimeconfig.cache
+C:\Users\922747\Desktop\IMarinaMVCWebApp\IMarinaData\obj\Debug\net7.0\ref\IMarinaData.dll
+C:\Users\922747\source\repos\InlandMarina_MVCApp\IMarinaData\bin\Debug\net7.0\IMarinaData.deps.json
+C:\Users\922747\source\repos\InlandMarina_MVCApp\IMarinaData\bin\Debug\net7.0\IMarinaData.runtimeconfig.json
+C:\Users\922747\source\repos\InlandMarina_MVCApp\IMarinaData\bin\Debug\net7.0\IMarinaData.dll
+C:\Users\922747\source\repos\InlandMarina_MVCApp\IMarinaData\bin\Debug\net7.0\IMarinaData.pdb
+C:\Users\922747\source\repos\InlandMarina_MVCApp\IMarinaData\obj\Debug\net7.0\IMarinaData.csproj.AssemblyReference.cache
+C:\Users\922747\source\repos\InlandMarina_MVCApp\IMarinaData\obj\Debug\net7.0\IMarinaData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\922747\source\repos\InlandMarina_MVCApp\IMarinaData\obj\Debug\net7.0\IMarinaData.AssemblyInfoInputs.cache
+C:\Users\922747\source\repos\InlandMarina_MVCApp\IMarinaData\obj\Debug\net7.0\IMarinaData.AssemblyInfo.cs
+C:\Users\922747\source\repos\InlandMarina_MVCApp\IMarinaData\obj\Debug\net7.0\IMarinaData.csproj.CoreCompileInputs.cache
+C:\Users\922747\source\repos\InlandMarina_MVCApp\IMarinaData\obj\Debug\net7.0\IMarinaData.dll
+C:\Users\922747\source\repos\InlandMarina_MVCApp\IMarinaData\obj\Debug\net7.0\refint\IMarinaData.dll
+C:\Users\922747\source\repos\InlandMarina_MVCApp\IMarinaData\obj\Debug\net7.0\IMarinaData.pdb
+C:\Users\922747\source\repos\InlandMarina_MVCApp\IMarinaData\obj\Debug\net7.0\IMarinaData.genruntimeconfig.cache
+C:\Users\922747\source\repos\InlandMarina_MVCApp\IMarinaData\obj\Debug\net7.0\ref\IMarinaData.dll
+C:\Users\922747\Desktop\Inland Marina Assignment 2\InlandMarina_MVCApp\IMarinaData\bin\Debug\net7.0\IMarinaData.deps.json
+C:\Users\922747\Desktop\Inland Marina Assignment 2\InlandMarina_MVCApp\IMarinaData\bin\Debug\net7.0\IMarinaData.runtimeconfig.json
+C:\Users\922747\Desktop\Inland Marina Assignment 2\InlandMarina_MVCApp\IMarinaData\bin\Debug\net7.0\IMarinaData.dll
+C:\Users\922747\Desktop\Inland Marina Assignment 2\InlandMarina_MVCApp\IMarinaData\bin\Debug\net7.0\IMarinaData.pdb
+C:\Users\922747\Desktop\Inland Marina Assignment 2\InlandMarina_MVCApp\IMarinaData\obj\Debug\net7.0\IMarinaData.csproj.AssemblyReference.cache
+C:\Users\922747\Desktop\Inland Marina Assignment 2\InlandMarina_MVCApp\IMarinaData\obj\Debug\net7.0\IMarinaData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\922747\Desktop\Inland Marina Assignment 2\InlandMarina_MVCApp\IMarinaData\obj\Debug\net7.0\IMarinaData.AssemblyInfoInputs.cache
+C:\Users\922747\Desktop\Inland Marina Assignment 2\InlandMarina_MVCApp\IMarinaData\obj\Debug\net7.0\IMarinaData.AssemblyInfo.cs
+C:\Users\922747\Desktop\Inland Marina Assignment 2\InlandMarina_MVCApp\IMarinaData\obj\Debug\net7.0\IMarinaData.csproj.CoreCompileInputs.cache
+C:\Users\922747\Desktop\Inland Marina Assignment 2\InlandMarina_MVCApp\IMarinaData\obj\Debug\net7.0\IMarinaData.dll
+C:\Users\922747\Desktop\Inland Marina Assignment 2\InlandMarina_MVCApp\IMarinaData\obj\Debug\net7.0\refint\IMarinaData.dll
+C:\Users\922747\Desktop\Inland Marina Assignment 2\InlandMarina_MVCApp\IMarinaData\obj\Debug\net7.0\IMarinaData.pdb
+C:\Users\922747\Desktop\Inland Marina Assignment 2\InlandMarina_MVCApp\IMarinaData\obj\Debug\net7.0\IMarinaData.genruntimeconfig.cache
+C:\Users\922747\Desktop\Inland Marina Assignment 2\InlandMarina_MVCApp\IMarinaData\obj\Debug\net7.0\ref\IMarinaData.dll
+C:\Users\922747\Desktop\New leases\InlandMarina_MVCApp\IMarinaData\bin\Debug\net7.0\IMarinaData.deps.json
+C:\Users\922747\Desktop\New leases\InlandMarina_MVCApp\IMarinaData\bin\Debug\net7.0\IMarinaData.runtimeconfig.json
+C:\Users\922747\Desktop\New leases\InlandMarina_MVCApp\IMarinaData\bin\Debug\net7.0\IMarinaData.dll
+C:\Users\922747\Desktop\New leases\InlandMarina_MVCApp\IMarinaData\bin\Debug\net7.0\IMarinaData.pdb
+C:\Users\922747\Desktop\New leases\InlandMarina_MVCApp\IMarinaData\obj\Debug\net7.0\IMarinaData.csproj.AssemblyReference.cache
+C:\Users\922747\Desktop\New leases\InlandMarina_MVCApp\IMarinaData\obj\Debug\net7.0\IMarinaData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\922747\Desktop\New leases\InlandMarina_MVCApp\IMarinaData\obj\Debug\net7.0\IMarinaData.AssemblyInfoInputs.cache
+C:\Users\922747\Desktop\New leases\InlandMarina_MVCApp\IMarinaData\obj\Debug\net7.0\IMarinaData.AssemblyInfo.cs
+C:\Users\922747\Desktop\New leases\InlandMarina_MVCApp\IMarinaData\obj\Debug\net7.0\IMarinaData.csproj.CoreCompileInputs.cache
+C:\Users\922747\Desktop\New leases\InlandMarina_MVCApp\IMarinaData\obj\Debug\net7.0\IMarinaData.dll
+C:\Users\922747\Desktop\New leases\InlandMarina_MVCApp\IMarinaData\obj\Debug\net7.0\refint\IMarinaData.dll
+C:\Users\922747\Desktop\New leases\InlandMarina_MVCApp\IMarinaData\obj\Debug\net7.0\IMarinaData.pdb
+C:\Users\922747\Desktop\New leases\InlandMarina_MVCApp\IMarinaData\obj\Debug\net7.0\IMarinaData.genruntimeconfig.cache
+C:\Users\922747\Desktop\New leases\InlandMarina_MVCApp\IMarinaData\obj\Debug\net7.0\ref\IMarinaData.dll

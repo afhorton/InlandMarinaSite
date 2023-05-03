@@ -1,0 +1,46 @@
+﻿@using IMarinaData
+@model List<Slip>
+@{
+    ViewBag.Title = "Available Slips";
+}
+
+<h1>Available Slips</h1>
+<div class="row">
+    <div class="col-sm-2">
+        <div class="list-group">
+            <a asp-controller="Slip" asp-action="List" asp-route-id="All"
+               class="list-group-item
+                @(ViewBag.SelectedCategoryName == "All" ? "active" : "")">
+                All
+            </a>
+            @foreach (Dock dock in ViewBag.Docks)
+            {
+                <a asp-controller="Slip" asp-action="List" asp-route-id="@dock.Name"
+                   class="list-group-item
+                         @(ViewBag.SelectedCategoryName == dock.Name ? "active" : "")">
+                    @dock.Name
+                </a>
+            }
+        </div>
+    </div>
+    <div class="col-sm-10">
+        <table class="table table-bordered table-striped bg-white">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Width</th>
+                    <th>Length</th>
+            </thead>
+            <tbody>
+                @foreach (var slip in Model)
+                {
+                    <tr>
+                        <td>@slip.ID</td>
+                        <td>@slip.Width</td>
+                        <td>@slip.Length</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

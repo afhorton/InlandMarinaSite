@@ -1,0 +1,43 @@
+﻿@model IMarinaData.Slip
+
+@{
+    ViewData["Title"] = "Confirm Lease";
+}
+
+<h1>Confirm Lease</h1>
+
+<h3>Are you sure you want to lease this slip?</h3>
+<div>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.ID)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.ID)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Width)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Width)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Length)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Length)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.DockID)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.DockID)
+        </dd>
+    </dl>
+    
+    <form asp-action="CreateLease">
+        <input type="hidden" name="slipId" value="@Model.ID" />
+        <input type="submit" value="Lease" class="btn btn-danger" /> 
+    </form>
+</div>
